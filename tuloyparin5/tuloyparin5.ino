@@ -1,7 +1,7 @@
 #include "pitchesx.h"
 #include "Piezzo.h"
 
-const int PiezzoPin = 8;
+const int PiezzoPin = 8;      // PiezzoPin
 const int BPM = 105;          // Beats per Minute
 const int Q = 60000 / BPM;    // 1/4 Note
 const int H = Q * 2;          // 1/2 Note
