@@ -19,7 +19,7 @@ int Stanza2 [] = {AS4, TE + E, AS4, TE + E, AS4, TE + E, R , Q, AS4, E, D5, E, D
 int Stanza3 [] = {F4, TE + S, AS4, TE + S, AS4, TE + S, AS4, TE + S, R, E, F4, E, D5, E, DS5, E, D5, E, C5, E, R, Q, F4, E, G4, E, R, E, D5, E, R, E, D5, E, D5, E, C5, E, C5, Q + E, R, H + E};
 int Chorus [] = {F4, E, G5, E, F5, E, F5, E, D5, E, G5, E, F5, E, F5, E + TE + S, F5, E + TE + S, F5, E + TE + S, R, Q};
 int Chorus2 [] = {F4, E, G5, E, F5, E, F5, E, D5, E, DS5, E, D5, E, D5, E, C5, Q, D5,  Q, C5, E, AS4, E, R, Q};
-int Chorus3 [] = {D5, E, D5, E, D5, E, D5, E, DS5, E, D5, Q, C5, Q, AS4, E + S, R, Q};
+int Chorus3 [] = {D5, E, D5, E, D5, E, D5, E, DS5, E, D5, Q, C5, Q, AS4, E + S, R, Q};  
 
 //Get the arrays' lengths
 int Chorusl = sizeof(Chorus) / sizeof(int);  
